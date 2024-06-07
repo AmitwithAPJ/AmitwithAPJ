@@ -9,7 +9,7 @@ I am Learning Web Developer and Practising DSA <img src="https://media.giphy.com
 
 - :seedling: Exploring the areas to Work on.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I Like to work on different and new ideas irrespective of sector/field. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
