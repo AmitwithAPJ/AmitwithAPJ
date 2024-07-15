@@ -4,7 +4,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am Learning Web Developer and Practising DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am Learning Web Development and Practising DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Content Writer at iccricketschedule.com & SportsDanka.com.
 
 - :seedling: Exploring the areas to Work on.
