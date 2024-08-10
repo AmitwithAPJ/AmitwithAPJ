@@ -11,7 +11,7 @@ I am Learning Web Development and Practising DSA <img src="https://media.giphy.c
 
 - :zap: I Like to work on different and new ideas irrespective of sector/field. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/amit-patel-91b2222a7/))
 
 - ---
 
